@@ -3,7 +3,7 @@
 # Goals
 Due to health problems of MtF, I think it's very important that design a special program.
 
-\alpha \beta \gamma \Gamma \theta \Theta
+$$\alpha $$ $$\beta \gamma \Gamma \theta \Theta
 
 
 
